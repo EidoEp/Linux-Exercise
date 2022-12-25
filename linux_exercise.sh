@@ -239,7 +239,7 @@ function Menu () {
 	printf "\t\tO==============================================O\n"
 	printf "\t\t|                                              |\n"
 	printf "\t\t|  ${ORG}i${NC} - Install required extensions.            |\n"                                                       
-	printf "\t\t|  ${ORG}s${NC} - Start exercise fron the begining.       |\n"
+	printf "\t\t|  ${ORG}s${NC} - Start exercise from the begining.       |\n"
 	printf "\t\t|  ${ORG}p${NC} - Pick a specific part to begin from.     |\n" 
 	printf "\t\t|  ${ORG}d${NC} - Display all the questions and answers.  |\n"
 	printf "\t\t|                                              |\n" 
